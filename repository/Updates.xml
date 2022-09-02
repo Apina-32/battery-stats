@@ -6,11 +6,11 @@
   <Name>com.Apina-32.Phone_battery_statistics</Name>
   <DisplayName>Phone battery statistics</DisplayName>
   <Description>Reads a .csv file and displays the data.</Description>
-  <Version>0.1.9</Version>
+  <Version>0.1.10</Version>
   <ReleaseDate>2022-08-30</ReleaseDate>
   <Default>true</Default>
-  <UpdateFile UncompressedSize="52944480" CompressedSize="14396610" OS="Any"/>
+  <UpdateFile UncompressedSize="52944480" OS="Any" CompressedSize="14396632"/>
   <DownloadableArchives>iconengines.7z,imageformats.7z,platforms.7z,styles.7z,tls.7z,content.7z</DownloadableArchives>
-  <SHA1>2741b72ba78dbaf4a707ae3d468165623c7988e6</SHA1>
+  <SHA1>31c71ff95b19801eebcc35778c5f6ebc3ec19627</SHA1>
  </PackageUpdate>
 </Updates>
