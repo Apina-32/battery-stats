@@ -9,8 +9,8 @@
   <Version>0.1.10</Version>
   <ReleaseDate>2022-08-30</ReleaseDate>
   <Default>true</Default>
-  <UpdateFile UncompressedSize="52944480" OS="Any" CompressedSize="14396632"/>
+  <UpdateFile UncompressedSize="52944480" CompressedSize="14396632" OS="Any"/>
   <DownloadableArchives>iconengines.7z,imageformats.7z,platforms.7z,styles.7z,tls.7z,content.7z</DownloadableArchives>
-  <SHA1>31c71ff95b19801eebcc35778c5f6ebc3ec19627</SHA1>
+  <SHA1>57ba7ce4ac8d115340cb4d60408c4a70c1d2aa6d</SHA1>
  </PackageUpdate>
 </Updates>
